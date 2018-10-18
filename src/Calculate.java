@@ -18,7 +18,7 @@ public class Calculate {
 		}
 	}
 	public String callNumberToMonth() {
-			 int number = 8;
+			 int number = getNumber();
 		        String monthString;
 		        switch (number) {
 		            case 0:  monthString = "January";
