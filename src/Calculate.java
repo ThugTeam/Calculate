@@ -17,7 +17,7 @@ public class Calculate {
 			return false;
 		}
 	}
-	public String callNumberToMonth() {
+	public String callNumberToString() {
 			 int number = getNumber();
 		        String numString;
 		        switch (number) {
